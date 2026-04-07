@@ -1,7 +1,12 @@
 aid: pultegroup
-url: https://raw.githubusercontent.com/api-evangelist/pultegroup/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/pultegroup/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.pultegroup.com
+description: >-
+  PulteGroup is one of America's largest homebuilding companies, building homes under
+  the Centex, Pulte Homes, Del Webb, DiVosta Homes, John Wieland Homes, and American
+  West brands.
