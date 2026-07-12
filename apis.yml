@@ -22,6 +22,8 @@ url: >-
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/pultegroup-domain-security.yml
   - type: Website
     url: https://www.pultegroup.com
   - type: Investor Relations
