@@ -22,6 +22,12 @@ access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/pultegroup.png
 tags:
   - Homebuilding
+  - Real-Estate
+  - Construction
+  - Fortune 500
+  - Enterprise
+tags_raw:
+  - Homebuilding
   - Real Estate
   - Construction
   - Fortune 500
