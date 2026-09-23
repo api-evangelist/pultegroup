@@ -1,7 +1,9 @@
 ---
 title: PulteGroup Pilots Innovative New Construction Process
 url: https://www.pultegroup.com/investor-relations/news/news-details/2025/PulteGroup-Pilots-Innovative-New-Construction-Process/default.aspx
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"PulteGroup" press release artificial intelligence'
 position: 1
 source: serpapi-google

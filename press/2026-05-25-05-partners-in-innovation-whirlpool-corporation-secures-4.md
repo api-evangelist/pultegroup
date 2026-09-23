@@ -1,7 +1,9 @@
 ---
 title: 'Partners in Innovation: Whirlpool Corporation Secures 4- ...'
 url: https://www.prnewswire.com/news-releases/partners-in-innovation-whirlpool-corporation-secures-4-year-renewal-with-pultegroup-300465695.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"PulteGroup" press release artificial intelligence'
 position: 5
 source: serpapi-google

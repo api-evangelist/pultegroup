@@ -1,7 +1,9 @@
 ---
 title: 𝗣𝘂𝗹𝘁𝗲𝗚𝗿𝗼𝘂𝗽 just turned new homes into 𝗱𝗮𝘁𝗮 ...
 url: https://www.instagram.com/p/DX9XNhQk0qt/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"PulteGroup" press release artificial intelligence'
 position: 4
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: PulteGroup, Inc. Reports First Quarter 2025 Financial Results
 url: https://pultegroupinc.com/investor-relations/news/news-details/2025/PulteGroup-Inc--Reports-First-Quarter-2025-Financial-Results/default.aspx
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"PulteGroup" press release artificial intelligence'
 position: 2
 source: serpapi-google
